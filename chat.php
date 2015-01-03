@@ -20,9 +20,9 @@ OTHER DEALINGS IN THE SOFTWARE.
 */
 
 define ('DBPATH','localhost');
-define ('DBUSER','seany4_mrwq');
-define ('DBPASS','earl4835');
-define ('DBNAME','seany4_mrwq');
+define ('DBUSER','user');
+define ('DBPASS','pass');
+define ('DBNAME','db');
 
 session_start();
 
